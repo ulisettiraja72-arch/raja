@@ -1,0 +1,46 @@
+/* Custom styles to enhance Bootstrap */
+body {
+    background-color: #f8f9fa;
+    min-height: 100vh;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+.table th {
+    background-color: #343a40;
+    color: white;
+}
+
+.badge {
+    font-size: 0.9rem;
+}
+
+.btn {
+    border-radius: 25px;
+    padding: 8px 20px;
+}
+
+.alert {
+    border-radius: 10px;
+}
+
+/* Responsive table */
+.table-responsive {
+    margin-top: 20px;
+}
